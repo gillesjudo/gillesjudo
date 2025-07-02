@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gillesjudo
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang, Bash, Python and Powershell
 - 💞️ I’m looking to collaborate on Cloud Security Projects
 - 📫 How to reach me gillescastro1021@gmail.com or at www.linkedin.com/in/gilles-c
 
